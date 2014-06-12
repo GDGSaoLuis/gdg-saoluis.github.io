@@ -23,13 +23,18 @@ footer {
 	margin-top: 10%;
 	text-shadow: 1px 1px 1px rgb(0, 0, 0);
 }
+/*Social*/
+.social > div {
+	display: inline-block;
+	margin: 5px 10px;
+}
 /*Content*/
 .content {
 	margin-top: 10%;
 }
 /*Logo*/
 .logo {
-	border-radius: 60px;
+	border-radius: 60%;
 }
 /*Title main*/
 .title_main {
