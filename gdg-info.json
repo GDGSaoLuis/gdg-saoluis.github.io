@@ -1,0 +1,11 @@
+{
+"siteUrl": "http://www.gdgsaoluis.com",
+"title": "GDG São Luis",
+"logoUrl": "img/logo_default.svg",
+"backgroundUrl": "img/slz.jpg",
+"subtitle": "Bem-vindo ao Grupo de Desenvolvedores Google São Luis - MA",
+"short" : "Grupo de Desenvolvedores Google em São Luis - MA",
+"postLimit": 5,
+"calendarUrl": "https://www.google.com/calendar/embed?src=v2nd8f8sdrn7ou7skqklnacn2o%40group.calendar.google.com&ctz=America/Fortaleza",
+"groupName": "gdgsaoluis"
+}
