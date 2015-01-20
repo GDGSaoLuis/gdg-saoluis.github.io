@@ -49,3 +49,14 @@ footer {
 	font-size: 1.5em;
 	text-shadow: 1px 1px 1px rgb(0, 0, 0);
 }
+
+/*Mar*/
+.marTop {
+	margin-top: 30px;
+}
+/*Partners Logo*/
+.partner_logo {
+	width:200px;
+	height: auto;
+}
+
