@@ -7,13 +7,14 @@
     conf.init = function () {
         conf.map.init($('#map-canvas'));
         conf.menu.init();
+
     };
 
     /***
         Google Maps implementation
     ***/
     conf.map = {
-        marker: 'themes/yellow-swan/img/marker-default.png'
+        marker: 'themes/meu-material/img/marker-default.png'
     };
 
     // Google Maps configs
@@ -78,6 +79,7 @@
             event.preventDefault();
 
             conf.menu.animateTo(event.target);
+            
         });
     };
 
